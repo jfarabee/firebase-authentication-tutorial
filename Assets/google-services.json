@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475671218461",
+    "project_id": "erudite-creek-253916",
+    "storage_bucket": "erudite-creek-253916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475671218461:android:e46d2c927936d2aa0879f4",
+        "android_client_info": {
+          "package_name": "com.jfarabee.firebaseauthenticationtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475671218461-ed6fm9899ffhbv2vkhtij9knb192lah4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUABCqMvCeErSbQts_D_0vBNJL3dvTRC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475671218461-ed6fm9899ffhbv2vkhtij9knb192lah4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
